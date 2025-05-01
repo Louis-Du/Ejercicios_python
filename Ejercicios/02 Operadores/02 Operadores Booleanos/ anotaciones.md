@@ -20,7 +20,7 @@ Ejemplo 'not':
 ```python
 `r = not True`        → `r` es `False`
 ```
-
+---
 # Valores Booleanos 
 | Operador | Descripción               | Pronuciación                        |
 |----------|---------------------------|--------------------------------|
