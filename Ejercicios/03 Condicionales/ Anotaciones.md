@@ -12,7 +12,7 @@ Ejemplos if:
 numero = 5
 if numero > 0:
     print("El número es positivo.")
-# Salida: El número es positivo.
+# Salida: El número es positivo.’’’
 
 Ejemplos if y else:
 # Verifica si un número es positivo o negativo
