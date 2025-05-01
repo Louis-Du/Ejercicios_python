@@ -1,4 +1,4 @@
-Operadores Booleanos 
+# Operadores Booleanos 
 | Operador | Descripción         | Pronunciación                        |
 |----------|---------------------|--------------------------------|
 | `and`    | ¿se cumple a y b?   | "y" |
@@ -20,7 +20,7 @@ Ejemplo 'not':
 `r = not True`        → `r` es `False`
 ```
 
-Valores Booleanos 
+# Valores Booleanos 
 | Operador | Descripción               | Pronuciación                        |
 |----------|---------------------------|--------------------------------|
 | `==`     | ¿son iguales a y b?       | "es igual a" |
