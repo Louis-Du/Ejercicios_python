@@ -15,7 +15,7 @@ if numero > 0:
 # Salida: El número es positivo.
 ```
 
-Ejemplos if y else:
+# Ejemplos if y else:
  
 ```
 # Verifica si un número es positivo o negativo
@@ -27,7 +27,7 @@ else:
 # Salida: El número es negativo o cero.
 ```
 
-Ejemplos if, elif y else:
+# Ejemplos if, elif y else:
 
 ```
 # Verifica si un número es positivo, negativo o cero
