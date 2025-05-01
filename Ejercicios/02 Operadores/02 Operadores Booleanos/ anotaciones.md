@@ -5,7 +5,7 @@ Operadores Booleanos
 | `or`     | ¿se cumple a o b?   | "o" |
 | `not`    | No a                | "no" |
 
-#Ejemplo and:
+# Ejemplo and:
 ```python
 `r = True and False`  → `r` es `False`
 ```
