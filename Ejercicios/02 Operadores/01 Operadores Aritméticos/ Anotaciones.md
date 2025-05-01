@@ -8,3 +8,12 @@ Operador|Descripción  |Ejemplo
  /    |División      |"r = 3.5 / 2  # r es 1.75 
 //    |Divisi. ente. |"r = 3.5 // 2 # r es 1.0 
  %    |Módulo        |"r = 7 % 2    # r es 1
+
+
+
+
+
+
+El operador de módulo no hace otra cosa que devolvernos el resto de la división entre los dos operandos. En el ejemplo, 7/2 sería 3, con 1 de  resto, luego el módulo es 1.
+
+La diferencia entre división y división entera no es otra que la que  indica su nombre. En la división el resultado que se devuelve es un  número real, mientras que en la división entera el resultado que se  devuelve es solo la parte entera.
