@@ -14,6 +14,15 @@ if numero > 0:
     print("El número es positivo.")
 # Salida: El número es positivo.
 
+Ejemplos if y else:
+# Verifica si un número es positivo o negativo
+numero = -3
+if numero > 0:
+    print("El número es positivo.")
+else:
+    print("El número es negativo o cero.")
+# Salida: El número es negativo o cero.
+
 Ejemplos if, elif y else:
 # Verifica si un número es positivo, negativo o cero
 numero = 0
