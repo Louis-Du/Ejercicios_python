@@ -6,17 +6,17 @@
 | `not`    | No a                | "no" |
 
 # Ejemplos:
-Ejemplo 'and':
+Ejemplo con 'and':
 ```python
 `r = True and False`  → `r` es `False`
 ```
 
-Ejemplo 'or':
+Ejemplo con 'or':
 ```python
 `r  = True or False`   → `r` es `True`  
 ```
 
-Ejemplo 'not':
+Ejemplo con 'not':
 ```python
 `r = not True`        → `r` es `False`
 ```
@@ -32,32 +32,32 @@ Ejemplo 'not':
 | `>=`     | ¿es a mayor o igual que b?| "mayor o igual que" |
 
 # Ejemplos:
-Ejemplo '==':
+Ejemplo con '==':
 ```python
 `r = 5 == 3`  → `r` es `False`
 ```
 
-Ejemplo '!=':
+Ejemplo con '!=':
 ```python
 `r = 5 != 3`  → `r` es `True` 
 ```
 
-Ejemplo '<':
+Ejemplo con '<':
 ```python
 `r = 5 < 3`   → `r` es `False` 
 ```
 
-Ejemplo '>':
+Ejemplo con '>':
 ```python
 `r = 5 > 3`   → `r` es `True`  
 ```
 
-Ejemplo '<':
+Ejemplo con '<':
 ```python
 `r = 5 <= 5`  → `r` es `True`
 ```
 
-Ejemplo '>=':
+Ejemplo con '>=':
 ```python
 `r = 5 >= 3`  → `r` es `True`
 ```
