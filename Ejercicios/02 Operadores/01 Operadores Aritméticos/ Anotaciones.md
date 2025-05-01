@@ -1,5 +1,5 @@
 
-Operador|Descripción  |Ejemplo 
+|Operador|Descripción  |Ejemplo 
 |+    |Suma          |"r = 3 + 2    # r es 5
 |-    |Resta         |"r = 4 - 7    # r es -3
 |-    |Negación      |"r = -7       # r es -
