@@ -1,9 +1,9 @@
 Operadores Booleanos 
 | Operador | Descripción         | Pronunciación                        |
 |----------|---------------------|--------------------------------|
-| `and`    | ¿se cumple a y b?   | 'y' |
-| `or`     | ¿se cumple a o b?   | 'o' |
-| `not`    | No a                | 'no' |
+| `and`    | ¿se cumple a y b?   | "y" |
+| `or`     | ¿se cumple a o b?   | "o" |
+| `not`    | No a                | "no" |
 
 #Ejemplo and:
 ```python
