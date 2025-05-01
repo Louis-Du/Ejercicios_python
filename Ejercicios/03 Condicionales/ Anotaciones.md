@@ -17,7 +17,7 @@ if numero > 0:
 
 # Ejemplos if y else:
  
-```
+```python
 # Verifica si un número es positivo o negativo
 numero = -3
 if numero > 0:
@@ -29,7 +29,7 @@ else:
 
 # Ejemplos if, elif y else:
 
-```
+```python
 # Verifica si un número es positivo, negativo o cero
 numero = 0
 if numero > 0:
