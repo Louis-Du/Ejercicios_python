@@ -1,7 +1,8 @@
-## ¡Bienvenid@ a los Libros de Apoyo 😁
+## ¡Bienvenid@ a los *Libros de Apoyo*! 📖
 
 
-Esta carpeta contiene materiales de apoyo en formato de libros. Por favor, ten en cuenta los derechos de autor y licencias de cada uno de ellos:
+Esta carpeta contiene materiales de apoyo en formato de libros. Por favor, ten en cuenta los derechos de autor y licencias de cada uno de ellos 😁.
+
 
 ## Libros Incluidos
 
@@ -10,7 +11,3 @@ Esta carpeta contiene materiales de apoyo en formato de libros. Por favor, ten e
    - **Licencia:** Creative Commons Reconocimiento 2.5 España
    - **Permisos:** Copiar, distribuir, comunicar públicamente y hacer obras derivadas.
    - **Condiciones:** Se debe reconocer y dar crédito al autor original (**Raúl González Duque**).
-
-## Nota Importante
-
-Si tienes dudas sobre los derechos de autor o licencias de alguno de los libros, consulta con el propietario del contenido antes de usarlo para otros fines.
