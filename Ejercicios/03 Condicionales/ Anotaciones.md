@@ -14,9 +14,8 @@ if numero > 0:
     print("El número es positivo.")
 # Salida: El número es positivo.
 
-## Ejemplos if y else:
-
-```python 
+Ejemplos if y else:
+ 
 # Verifica si un número es positivo o negativo
 numero = -3
 if numero > 0:
@@ -27,7 +26,6 @@ else:
 
 Ejemplos if, elif y else:
 
-```python
 # Verifica si un número es positivo, negativo o cero
 numero = 0
 if numero > 0:
