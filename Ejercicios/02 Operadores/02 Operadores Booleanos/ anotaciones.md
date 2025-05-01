@@ -31,7 +31,7 @@ Ejemplo 'not':
 | `<=`     | ¿es a menor o igual que b?| "menor o igual que" |
 | `>=`     | ¿es a mayor o igual que b?| "mayor o igual que" |
 
-Ejemplos:
+# Ejemplos:
 Ejemplo '==':
 ```python
 `r = 5 == 3`  → `r` es `False`
