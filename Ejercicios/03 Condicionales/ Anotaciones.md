@@ -5,7 +5,7 @@
 | `elif`      | Combina else e if; evalúa otra condición si la anterior fue falsa. | "sino si"     |
 
 
-Ejemplos if:
+# Ejemplo if:
 
 ```python
 # Verifica si un número es positivo
