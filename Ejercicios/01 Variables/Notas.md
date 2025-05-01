@@ -27,8 +27,27 @@ print(f"El número como texto es: {numero_como_texto}")
 ```
 
 Ejemplo de 'float':
+```python
 # Convierte una cadena en un número decimal
 cadena = "3.14"
 numero_decimal = float(cadena)
 print(f"El número decimal es: {numero_decimal}")
 # Salida: El número decimal es: 3.14
+```
+
+Ejemplo de 'int':
+```python
+# Convierte una cadena en un número entero
+cadena = "42"
+numero_entero = int(cadena)
+print(f"El número entero es: {numero_entero}")
+# Salida: El número entero es: 42
+```
+
+Ejemplo de 'type':
+```python
+# Verifica el tipo de dato de una variable
+variable = 5.5
+print(f"El tipo de dato de la variable es: {type(variable)}")
+# Salida: El tipo de dato de la variable es: <class 'float'>
+```
