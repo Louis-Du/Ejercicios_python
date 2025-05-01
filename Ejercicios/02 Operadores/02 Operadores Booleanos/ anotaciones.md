@@ -5,6 +5,7 @@
 | `or`     | ¿se cumple a o b?   | "o" |
 | `not`    | No a                | "no" |
 
+# Ejemplos:
 Ejemplo 'and':
 ```python
 `r = True and False`  → `r` es `False`
@@ -30,6 +31,7 @@ Ejemplo 'not':
 | `<=`     | ¿es a menor o igual que b?| "menor o igual que" |
 | `>=`     | ¿es a mayor o igual que b?| "mayor o igual que" |
 
+Ejemplos:
 Ejemplo '==':
 ```python
 `r = 5 == 3`  → `r` es `False`
