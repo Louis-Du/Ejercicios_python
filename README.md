@@ -27,3 +27,11 @@ El objetivo de este repositorio es proporcionar un recurso educativo para aprend
    git clone https://github.com/Louis-Du/Ejercicios_python.git
 2. Navega por las carpetas y selecciona el tema que desees aprender.
 3. Lee las anotaciones y practica con los ejercicios incluidos.
+
+### Contribuciones
+
+Si deseas contribuir con ejercicios adicionales, correcciones o mejoras, ¡eres bienvenido! Por favor, abre un pull request o inicia una discusión en el repositorio.
+
+### Licencia
+
+Este repositorio se distribuye bajo la licencia MIT. Si utilizas este contenido, recuerda dar el debido reconocimiento.
