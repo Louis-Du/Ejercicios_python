@@ -21,12 +21,41 @@ Operadores Booleanos
 ```
 
 Valores Booleanos 
-| Operador | Descripción               | Ejemplo                        |
+| Operador | Descripción               | Pronuciación                        |
 |----------|---------------------------|--------------------------------|
-| `==`     | ¿son iguales a y b?       | `r = 5 == 3`  → `r` es `False` |
-| `!=`     | ¿son distintos a y b?     | `r = 5 != 3`  → `r` es `True`  |
-| `<`      | ¿es a menor que b?        | `r = 5 < 3`   → `r` es `False` |
-| `>`      | ¿es a mayor que b?        | `r = 5 > 3`   → `r` es `True`  |
-| `<=`     | ¿es a menor o igual que b?| `r = 5 <= 5`  → `r` es `True`  |
-| `>=`     | ¿es a mayor o igual que b?| `r = 5 >= 3`  → `r` es `True`  |
+| `==`     | ¿son iguales a y b?       | "es igual a" |
+| `!=`     | ¿son distintos a y b?     | "diferente a" |
+| `<`      | ¿es a menor que b?        | "menor que" |
+| `>`      | ¿es a mayor que b?        | "mayor que" |
+| `<=`     | ¿es a menor o igual que b?| "menor o igual que" |
+| `>=`     | ¿es a mayor o igual que b?| "mayor o igual que" |
 
+Ejemplo '==':
+```python
+`r = 5 == 3`  → `r` es `False`
+```
+
+Ejemplo '!=':
+```python
+`r = 5 != 3`  → `r` es `True` 
+```
+
+Ejemplo '<':
+```python
+`r = 5 < 3`   → `r` es `False` 
+```
+
+Ejemplo '>':
+```python
+`r = 5 > 3`   → `r` es `True`  
+```
+
+Ejemplo '<':
+```python
+`r = 5 <= 5`  → `r` es `True`
+```
+
+Ejemplo '>=':
+```python
+`r = 5 >= 3`  → `r` es `True`
+```
