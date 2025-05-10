@@ -1,5 +1,7 @@
 # Ejercicios Python
 
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
 ¡Bienvenido al repositorio **Ejercicios Python**! Este repositorio está diseñado para ayudarte a aprender y practicar conceptos fundamentales de programación en Python a través de ejemplos y ejercicios prácticos.
 
 ## 📚 Descripción
