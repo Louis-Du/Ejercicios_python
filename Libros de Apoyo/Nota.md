@@ -18,3 +18,4 @@ Jeffrey Elkner,
 Chris Meyers._
    - **Licencia:** _GNU Free Documentation License, Versi´on 1.1_
    - **Permisos:** _Se permite copiar, distribuir, y/o modificar este documento._
+- **Condiciones**: _Se debe reconocer la autoría original y mantener los créditos a autores, correctores y diseñadores.
