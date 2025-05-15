@@ -1,10 +1,9 @@
 ## 📚 ¡Bienvenid@ a los *Libros de Apoyo*! 
 
 
-Esta *carpeta* contiene materiales de apoyo en formato de libros. A continuación se mencionan los derechos de autor y las condiciones legales de cada libro 😁.
+Esta *carpeta* contiene materiales de apoyo en formato de libros. A continuación se mencionan los derechos de autor y las condiciones legales de cada libro 😁:
 
-
-## Libros Incluidos
+_______________________________________________
 
 ### 1. ***"Python para todos"***
    - **Autor:** _Raúl González Duque_
