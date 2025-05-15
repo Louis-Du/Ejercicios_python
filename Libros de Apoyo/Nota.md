@@ -12,6 +12,8 @@ Esta *carpeta* contiene materiales de apoyo en formato de libros. A continuació
    - **Permisos:** _Copiar, distribuir, comunicar públicamente y hacer obras derivadas._
    - **Condiciones:** _Se debe reconocer y dar crédito al autor original (**Raúl González Duque**)._
 
+_______________________________________________
+
 ### 2. ***"Aprenda a pensar como un programador con python"*** 
    - **Autores:** _Allen Downey, Jeffrey Elkner, Chris Meyers._  
    - **Licencia:** _GNU Free Documentation License, Versión 1.1 o cualquier versión posterior publicada por la Free Software Foundation._  
