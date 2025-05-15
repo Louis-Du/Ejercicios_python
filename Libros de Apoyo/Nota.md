@@ -11,3 +11,5 @@ Esta carpeta contiene materiales de apoyo en formato de libros. Por favor, ten e
    - **Licencia:** Creative Commons Reconocimiento 2.5 España
    - **Permisos:** Copiar, distribuir, comunicar públicamente y hacer obras derivadas.
    - **Condiciones:** Se debe reconocer y dar crédito al autor original (**Raúl González Duque**).
+
+2. 
