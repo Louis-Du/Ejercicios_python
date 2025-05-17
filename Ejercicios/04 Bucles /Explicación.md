@@ -22,10 +22,10 @@ while número >= contador:
   contador += 1
   
 # Salida: 1
-          2
-          3
-          4
-          5
+#         2
+#         3
+#         4
+#         5
 ```
 
 
@@ -39,9 +39,9 @@ for letra in palabra:
   print(letra)
   
 # Salida: H
-          o
-          l
-          a
+#         o
+#         l
+#         a
 ```
 
 # Ejemplo `for` y `.range()`:
@@ -52,8 +52,8 @@ for número in range(1, 10 + 1, 2):
   print(número)
   
 # Salida: 1 
-          3
-          5
-          7
-          9
+#         3
+#         5
+#         7
+#         9
 ```
