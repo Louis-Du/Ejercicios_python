@@ -1,38 +1,49 @@
-# Ejercicios Python
+# ¡Bienvenid@ al repositorio ***Ejercicios Python***! 
+
+> **Nota:**  
+> Este repositorio está diseñado para guardar y monitorear el conocimiento que aprendo sobre el lenguaje Python.
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-¡Bienvenido al repositorio **Ejercicios Python**! Este repositorio está diseñado para ayudarte a aprender y practicar conceptos fundamentales de programación en Python a través de ejemplos y ejercicios prácticos.
+## ¿Qué puedes encontrar en este repositorio?
 
-## 📚 Descripción
+Aquí encontrarás una colección organizada con explicaciones teóricas, ejemplos y ejercicios sobre los conceptos fundamentales de Python _(como variables, condicionales, operadores aritméticos y más...)_, además de libros y documentos útiles, y pequeños proyectos realizados únicamente en este lenguaje, que puedes usar como referencia.
 
-En este repositorio encontrarás una colección organizada de ejercicios y anotaciones que cubren conceptos esenciales de Python. Cada carpeta aborda un tema específico, proporcionando tanto explicaciones teóricas como ejemplos prácticos para facilitar el aprendizaje. Está estructurado de manera que sea útil tanto para principiantes como para programadores con experiencia que deseen reforzar sus conocimientos.
+---
 
-### 🗂️ Estructura del Repositorio
+### 🗂 Estructura del repositorio
 
-- **`01 Variables`**: Introducción al uso de variables en Python. Incluye ejemplos de cómo declarar, asignar y trabajar con diferentes tipos de datos como cadenas, números enteros, flotantes, y más.
-- **`03 Condicionales`**: Explicaciones y ejemplos prácticos sobre el uso de estructuras condicionales como `if`, `else` y `elif`, además de ejercicios para ponerlos en práctica.
-- **Anotaciones adicionales**: Notas teóricas que complementan los ejercicios, explicando conceptos clave de manera sencilla y accesible.
+Este repositorio está estructurado y organizado mediante _carpetas_, lo cual será útil tanto para principiantes autodidactas como para programadores con experiencia que deseen reforzar sus conocimientos.
 
-### 🛠️ Tecnologías
+- **[📝 `Ejercicios`](./Ejercicios)**: Carpeta donde se encuentran los conceptos de Python, acompañados de explicaciones, ejemplos y ejercicios básicos realizados.
 
-Este proyecto utiliza exclusivamente **Python**, un lenguaje de programación versátil y fácil de aprender, ideal para desarrollar aplicaciones, análisis de datos, y mucho más.
+    - **[`01 Variables`](./Ejercicios/01%20Variables)**
+    - **[`02 Operadores`](./Ejercicios/02%20Operadores)**
+    - **[`03 Condicionales`](./Ejercicios/03%20Condicionales)**
+    - **[`04 Bucles`](./Ejercicios/04%20Bucles)**
 
-### 🎯 Objetivo
+- **[📚 `Libros de Apoyo`](./Libros%20de%20Apoyo)**: Carpeta que contiene libros y documentos en formato PDF para el aprendizaje de Python. Se menciona el autor y las condiciones/licencias en el archivo _Nota.md_ de esta carpeta.
 
-El objetivo de este repositorio es proporcionar un recurso educativo para aprender Python mediante ejercicios prácticos y referencias teóricas. Es un espacio pensado para estudiantes autodidactas, docentes y cualquier persona interesada en mejorar sus habilidades de programación.
+- **[:department_store: `Proyectos`](./Proyectos)**: Aquí están los pequeños proyectos realizados en Python. Cada proyecto está dentro de una carpeta con su nombre, que contiene el script `.py` y un archivo `README.md` donde se explica en qué consiste y qué conceptos de Python se aplicaron.
+
+---
 
 ## 🚀 Cómo usar este repositorio
 
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/Louis-Du/Ejercicios_python.git
+   ```
 2. Navega por las carpetas y selecciona el tema que desees aprender.
 3. Lee las anotaciones y practica con los ejercicios incluidos.
+
+---
 
 ## 🎓 Contribuciones
 
 Si deseas contribuir con ejercicios adicionales, correcciones o mejoras, ¡eres bienvenido! Por favor, abre un pull request o inicia una discusión en el repositorio.
+
+---
 
 ## 📄 Licencia
 
