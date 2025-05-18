@@ -1,7 +1,7 @@
 ## 📚 ¡Bienvenid@ a los *Libros de Apoyo*! 
 
 
-Esta *carpeta* contiene materiales de apoyo en formato de libros. A continuación se mencionan los derechos de autor y las condiciones legales de cada libro 😁:
+Esta _carpeta_ contiene materiales de apoyo en formato de libros. A continuación se mencionan los derechos de autor y las condiciones legales de cada libro, muchas gracias a cada uno de ellos por proporcionalas públicamente 😁:
 
 _______________________________________________
 
